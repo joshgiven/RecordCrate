@@ -1,0 +1,3228 @@
+{
+  "artists": [
+    {
+      "name": "Black Sabbath",
+      "sortName": "Black Sabbath",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Black Sabbath hails from his/her/their very own hometown. The interesting thing about Black Sabbath's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Black_Sabbath",
+      "id": 1001
+    },
+    {
+      "name": "Mogwai",
+      "sortName": "Mogwai",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Mogwai hails from his/her/their very own hometown. The interesting thing about Mogwai's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Mogwai",
+      "id": 1002
+    },
+    {
+      "name": "Bob Dylan",
+      "sortName": "Dylan, Bob",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Bob Dylan hails from his/her/their very own hometown. The interesting thing about Bob Dylan's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Bob_Dylan",
+      "id": 1003
+    },
+    {
+      "name": "Pink Floyd",
+      "sortName": "Pink Floyd",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Pink Floyd hails from his/her/their very own hometown. The interesting thing about Pink Floyd's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Pink_Floyd",
+      "id": 1004
+    },
+    {
+      "name": "Led Zeppelin",
+      "sortName": "Led Zeppelin",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Led Zeppelin hails from his/her/their very own hometown. The interesting thing about Led Zeppelin's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Led_Zeppelin",
+      "id": 1005
+    },
+    {
+      "name": "ABBA",
+      "sortName": "ABBA",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "ABBA hails from his/her/their very own hometown. The interesting thing about ABBA's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/ABBA",
+      "id": 1006
+    },
+    {
+      "name": "Van Morrison",
+      "sortName": "Morrison, Van",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Van Morrison hails from his/her/their very own hometown. The interesting thing about Van Morrison's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Van_Morrison",
+      "id": 1007
+    },
+    {
+      "name": "Miles Davis",
+      "sortName": "Davis, Miles",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Miles Davis hails from his/her/their very own hometown. The interesting thing about Miles Davis's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Miles_Davis",
+      "id": 1008
+    },
+    {
+      "name": "Mastodon",
+      "sortName": "Mastodon",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Mastodon hails from his/her/their very own hometown. The interesting thing about Mastodon's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Mastodon",
+      "id": 1009
+    },
+    {
+      "name": "Ween",
+      "sortName": "Ween",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Ween hails from his/her/their very own hometown. The interesting thing about Ween's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Ween",
+      "id": 1010
+    },
+    {
+      "name": "The Smiths",
+      "sortName": "Smiths, The",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "The Smiths hails from his/her/their very own hometown. The interesting thing about The Smiths's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/The_Smiths",
+      "id": 1011
+    },
+    {
+      "name": "Flight of the Conchords",
+      "sortName": "Flight of the Conchords",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Flight of the Conchords hails from his/her/their very own hometown. The interesting thing about Flight of the Conchords's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Flight_of_the_Conchords",
+      "id": 1012
+    },
+    {
+      "name": "Punch Brothers",
+      "sortName": "Punch Brothers",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Punch Brothers hails from his/her/their very own hometown. The interesting thing about Punch Brothers's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Punch_Brothers",
+      "id": 1013
+    },
+    {
+      "name": "John Coltrane",
+      "sortName": "Coltrane, John",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "John Coltrane hails from his/her/their very own hometown. The interesting thing about John Coltrane's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/John_Coltrane",
+      "id": 1014
+    },
+    {
+      "name": "Radiohead",
+      "sortName": "Radiohead",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Radiohead hails from his/her/their very own hometown. The interesting thing about Radiohead's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Radiohead",
+      "id": 1015
+    },
+    {
+      "name": "Built to Spill",
+      "sortName": "Built to Spill",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Built to Spill hails from his/her/their very own hometown. The interesting thing about Built to Spill's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Built_to_Spill",
+      "id": 1016
+    },
+    {
+      "name": "Wire",
+      "sortName": "Wire",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Wire hails from his/her/their very own hometown. The interesting thing about Wire's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Wire",
+      "id": 1017
+    },
+    {
+      "name": "Thelonious Monk",
+      "sortName": "Monk, Thelonious",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Thelonious Monk hails from his/her/their very own hometown. The interesting thing about Thelonious Monk's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Thelonious_Monk",
+      "id": 1018
+    },
+    {
+      "name": "Run the Jewels",
+      "sortName": "Run the Jewels",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Run the Jewels hails from his/her/their very own hometown. The interesting thing about Run the Jewels's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Run_the_Jewels",
+      "id": 1019
+    },
+    {
+      "name": "Roxy Music",
+      "sortName": "Roxy Music",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Roxy Music hails from his/her/their very own hometown. The interesting thing about Roxy Music's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Roxy_Music",
+      "id": 1020
+    },
+    {
+      "name": "ZZ Top",
+      "sortName": "ZZ Top",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "ZZ Top hails from his/her/their very own hometown. The interesting thing about ZZ Top's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/ZZ_Top",
+      "id": 1021
+    },
+    {
+      "name": "The Allman Brothers Band",
+      "sortName": "Allman Brothers Band, The",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "The Allman Brothers Band hails from his/her/their very own hometown. The interesting thing about The Allman Brothers Band's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/The_Allman_Brothers_Band",
+      "id": 1022
+    },
+    {
+      "name": "Frank Zappa",
+      "sortName": "Zappa, Frank",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Frank Zappa hails from his/her/their very own hometown. The interesting thing about Frank Zappa's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Frank_Zappa",
+      "id": 1023
+    },
+    {
+      "name": "Pixies",
+      "sortName": "Pixies",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Pixies hails from his/her/their very own hometown. The interesting thing about Pixies's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Pixies",
+      "id": 1024
+    },
+    {
+      "name": "The Rolling Stones",
+      "sortName": "Rolling Stones, The",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "The Rolling Stones hails from his/her/their very own hometown. The interesting thing about The Rolling Stones's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/The_Rolling_Stones",
+      "id": 1025
+    },
+    {
+      "name": "The Beatles",
+      "sortName": "Beatles, The",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "The Beatles hails from his/her/their very own hometown. The interesting thing about The Beatles's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/The_Beatles",
+      "id": 1026
+    },
+    {
+      "name": "Brian Eno",
+      "sortName": "Eno, Brian",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Brian Eno hails from his/her/their very own hometown. The interesting thing about Brian Eno's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Brian_Eno",
+      "id": 1027
+    },
+    {
+      "name": "Guided by Voices",
+      "sortName": "Guided by Voices",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Guided by Voices hails from his/her/their very own hometown. The interesting thing about Guided by Voices's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Guided_by_Voices",
+      "id": 1028
+    },
+    {
+      "name": "Aesop Rock",
+      "sortName": "Aesop Rock",
+      "image": "",
+      "thumbnail": "",
+      "bioText": "Aesop Rock hails from his/her/their very own hometown. The interesting thing about Aesop Rock's music is interesting.",
+      "link": "http://https://en.wikipedia.org/wiki/Aesop_Rock",
+      "id": 1029
+    }
+  ],
+  "albums": [
+    {
+      "title": "Sabotage",
+      "artist": {
+        "name": "Black Sabbath",
+        "sortName": "Black Sabbath",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Black Sabbath hails from his/her/their very own hometown. The interesting thing about Black Sabbath's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Black_Sabbath",
+        "id": 1001
+      },
+      "year": "1980",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Hole in the Sky",
+          "length": 239800
+        },
+        {
+          "index": 2,
+          "title": "Don’t Start (Too Late)",
+          "length": 49360
+        },
+        {
+          "index": 3,
+          "title": "Symptom of the Universe",
+          "length": 388666
+        },
+        {
+          "index": 4,
+          "title": "Megalomania",
+          "length": 580466
+        },
+        {
+          "index": 5,
+          "title": "The Thrill of It All",
+          "length": 354933
+        },
+        {
+          "index": 6,
+          "title": "Supertzar",
+          "length": 223466
+        },
+        {
+          "index": 7,
+          "title": "Am I Going Insane (Radio)",
+          "length": 255973
+        },
+        {
+          "index": 8,
+          "title": "The Writ",
+          "length": 490666
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/7adcb685-81ae-3df3-a7df-a7c54717edc8.jpg",
+      "coverThumbnail": "img/album/thumbs/7adcb685-81ae-3df3-a7df-a7c54717edc8.jpg",
+      "id": 2001
+    },
+    {
+      "title": "Young Team",
+      "artist": {
+        "name": "Mogwai",
+        "sortName": "Mogwai",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Mogwai hails from his/her/their very own hometown. The interesting thing about Mogwai's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Mogwai",
+        "id": 1002
+      },
+      "year": "1997",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Yes! I Am a Long Way From Home",
+          "length": 358960
+        },
+        {
+          "index": 2,
+          "title": "Like Herod",
+          "length": 704693
+        },
+        {
+          "index": 3,
+          "title": "Katrien",
+          "length": 327053
+        },
+        {
+          "index": 4,
+          "title": "Radar Maker",
+          "length": 98706
+        },
+        {
+          "index": 5,
+          "title": "Tracy",
+          "length": 442066
+        },
+        {
+          "index": 6,
+          "title": "Summer (Priority version)",
+          "length": 211560
+        },
+        {
+          "index": 7,
+          "title": "With Portfolio",
+          "length": 193946
+        },
+        {
+          "index": 8,
+          "title": "R U Still in 2 It",
+          "length": 443840
+        },
+        {
+          "index": 9,
+          "title": "A Cheery Wave From Stranded Youngsters",
+          "length": 141453
+        },
+        {
+          "index": 10,
+          "title": "Mogwai Fear Satan",
+          "length": 978720
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/fe0dfba6-4868-3ede-a3f6-f6f6d7f5fb27.jpg",
+      "coverThumbnail": "img/album/thumbs/fe0dfba6-4868-3ede-a3f6-f6f6d7f5fb27.jpg",
+      "id": 2002
+    },
+    {
+      "title": "Blonde on Blonde",
+      "artist": {
+        "name": "Bob Dylan",
+        "sortName": "Dylan, Bob",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Bob Dylan hails from his/her/their very own hometown. The interesting thing about Bob Dylan's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Bob_Dylan",
+        "id": 1003
+      },
+      "year": "2010",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Rainy Day Women #12 & 35",
+          "length": 276666
+        },
+        {
+          "index": 2,
+          "title": "Pledging My Time",
+          "length": 230093
+        },
+        {
+          "index": 3,
+          "title": "Visions of Johanna",
+          "length": 453440
+        },
+        {
+          "index": 4,
+          "title": "One of Us Must Know (Sooner or Later)",
+          "length": 294760
+        },
+        {
+          "index": 5,
+          "title": "I Want You",
+          "length": 187773
+        },
+        {
+          "index": 6,
+          "title": "Stuck Inside of Mobile With the Memphis Blues Again",
+          "length": 425893
+        },
+        {
+          "index": 7,
+          "title": "Leopard-Skin Pill-Box Hat",
+          "length": 238400
+        },
+        {
+          "index": 8,
+          "title": "Just Like a Woman",
+          "length": 290733
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/3d268b10-84a1-36f0-8c67-6696f77b1268.jpg",
+      "coverThumbnail": "img/album/thumbs/3d268b10-84a1-36f0-8c67-6696f77b1268.jpg",
+      "id": 2003
+    },
+    {
+      "title": "Animals",
+      "artist": {
+        "name": "Pink Floyd",
+        "sortName": "Pink Floyd",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Pink Floyd hails from his/her/their very own hometown. The interesting thing about Pink Floyd's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Pink_Floyd",
+        "id": 1004
+      },
+      "year": "2006",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Pigs on the Wing, Part 1",
+          "length": 85400
+        },
+        {
+          "index": 2,
+          "title": "Dogs",
+          "length": 1028173
+        },
+        {
+          "index": 3,
+          "title": "Pigs (Three Different Ones)",
+          "length": 688226
+        },
+        {
+          "index": 4,
+          "title": "Sheep",
+          "length": 620133
+        },
+        {
+          "index": 5,
+          "title": "Pigs on the Wing, Part 2",
+          "length": 85866
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/e7fac0b5-24b8-31eb-816f-86716b00264e.jpg",
+      "coverThumbnail": "img/album/thumbs/e7fac0b5-24b8-31eb-816f-86716b00264e.jpg",
+      "id": 2004
+    },
+    {
+      "title": "Physical Graffiti",
+      "artist": {
+        "name": "Led Zeppelin",
+        "sortName": "Led Zeppelin",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Led Zeppelin hails from his/her/their very own hometown. The interesting thing about Led Zeppelin's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Led_Zeppelin",
+        "id": 1005
+      },
+      "year": "1994",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Custard Pie",
+          "length": 253960
+        },
+        {
+          "index": 2,
+          "title": "The Rover",
+          "length": 337133
+        },
+        {
+          "index": 3,
+          "title": "In My Time of Dying",
+          "length": 665973
+        },
+        {
+          "index": 4,
+          "title": "Houses of the Holy",
+          "length": 242333
+        },
+        {
+          "index": 5,
+          "title": "Trampled Under Foot",
+          "length": 336533
+        },
+        {
+          "index": 6,
+          "title": "Kashmir",
+          "length": 508466
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/58d94486-e02d-4c82-b693-5806132f6273.jpg",
+      "coverThumbnail": "img/album/thumbs/58d94486-e02d-4c82-b693-5806132f6273.jpg",
+      "id": 2005
+    },
+    {
+      "title": "Arrival",
+      "artist": {
+        "name": "ABBA",
+        "sortName": "ABBA",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "ABBA hails from his/her/their very own hometown. The interesting thing about ABBA's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/ABBA",
+        "id": 1006
+      },
+      "year": "2001",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "When I Kissed the Teacher",
+          "length": 182013
+        },
+        {
+          "index": 2,
+          "title": "Dancing Queen",
+          "length": 230693
+        },
+        {
+          "index": 3,
+          "title": "My Love, My Life",
+          "length": 232440
+        },
+        {
+          "index": 4,
+          "title": "Dum Dum Diddle",
+          "length": 174600
+        },
+        {
+          "index": 5,
+          "title": "Knowing Me, Knowing You",
+          "length": 243893
+        },
+        {
+          "index": 6,
+          "title": "Money, Money, Money",
+          "length": 186506
+        },
+        {
+          "index": 7,
+          "title": "That’s Me",
+          "length": 196800
+        },
+        {
+          "index": 8,
+          "title": "Why Did It Have to Be Me",
+          "length": 202400
+        },
+        {
+          "index": 9,
+          "title": "Tiger",
+          "length": 175760
+        },
+        {
+          "index": 10,
+          "title": "Arrival",
+          "length": 185066
+        },
+        {
+          "index": 11,
+          "title": "Fernando",
+          "length": 255533
+        },
+        {
+          "index": 12,
+          "title": "Happy Hawaii",
+          "length": 265760
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/c6259fcf-19c2-3f1f-aa29-0f36f7932293.jpg",
+      "coverThumbnail": "img/album/thumbs/c6259fcf-19c2-3f1f-aa29-0f36f7932293.jpg",
+      "id": 2006
+    },
+    {
+      "title": "Moondance",
+      "artist": {
+        "name": "Van Morrison",
+        "sortName": "Morrison, Van",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Van Morrison hails from his/her/their very own hometown. The interesting thing about Van Morrison's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Van_Morrison",
+        "id": 1007
+      },
+      "year": "1990",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "And It Stoned Me",
+          "length": 273960
+        },
+        {
+          "index": 2,
+          "title": "Moondance",
+          "length": 276666
+        },
+        {
+          "index": 3,
+          "title": "Crazy Love",
+          "length": 156840
+        },
+        {
+          "index": 4,
+          "title": "Caravan",
+          "length": 302533
+        },
+        {
+          "index": 5,
+          "title": "Into the Mystic",
+          "length": 210400
+        },
+        {
+          "index": 6,
+          "title": "Come Running",
+          "length": 152426
+        },
+        {
+          "index": 7,
+          "title": "These Dreams of You",
+          "length": 233906
+        },
+        {
+          "index": 8,
+          "title": "Brand New Day",
+          "length": 310800
+        },
+        {
+          "index": 9,
+          "title": "Everyone",
+          "length": 214493
+        },
+        {
+          "index": 10,
+          "title": "Glad Tidings",
+          "length": 222373
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/d36c8d5b-6e2c-372b-9927-1d2533421260.jpg",
+      "coverThumbnail": "img/album/thumbs/d36c8d5b-6e2c-372b-9927-1d2533421260.jpg",
+      "id": 2007
+    },
+    {
+      "title": "Astral Weeks: Live at the Hollywood Bowl",
+      "artist": {
+        "name": "Van Morrison",
+        "sortName": "Morrison, Van",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Van Morrison hails from his/her/their very own hometown. The interesting thing about Van Morrison's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Van_Morrison",
+        "id": 1007
+      },
+      "year": "2009",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Astral Weeks / I Believe I've Transcended",
+          "length": 595520
+        },
+        {
+          "index": 2,
+          "title": "Beside You",
+          "length": 359360
+        },
+        {
+          "index": 3,
+          "title": "Slim Slow Slider / I Start Breaking Down",
+          "length": 464600
+        },
+        {
+          "index": 4,
+          "title": "Sweet Thing",
+          "length": 337986
+        },
+        {
+          "index": 5,
+          "title": "The Way Young Lovers Do",
+          "length": 198440
+        },
+        {
+          "index": 6,
+          "title": "Cyprus Avenue / You Came Walking Down",
+          "length": 359306
+        },
+        {
+          "index": 7,
+          "title": "Ballerina / Move On Up",
+          "length": 585000
+        },
+        {
+          "index": 8,
+          "title": "Madame George",
+          "length": 523493
+        },
+        {
+          "index": 9,
+          "title": "Listen to the Lion / The Lion Speaks",
+          "length": 464426
+        },
+        {
+          "index": 10,
+          "title": "Common One",
+          "length": 399386
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/d82babbc-31d7-34ee-bf2a-21d42eeb0f6f.jpg",
+      "coverThumbnail": "img/album/thumbs/d82babbc-31d7-34ee-bf2a-21d42eeb0f6f.jpg",
+      "id": 2008
+    },
+    {
+      "title": "Kind of Blue",
+      "artist": {
+        "name": "Miles Davis",
+        "sortName": "Davis, Miles",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Miles Davis hails from his/her/their very own hometown. The interesting thing about Miles Davis's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Miles_Davis",
+        "id": 1008
+      },
+      "year": "1959",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "So What",
+          "length": 545426
+        },
+        {
+          "index": 2,
+          "title": "Freddie Freeloader",
+          "length": 575800
+        },
+        {
+          "index": 3,
+          "title": "Blue in Green",
+          "length": 328666
+        },
+        {
+          "index": 4,
+          "title": "All Blues",
+          "length": 693800
+        },
+        {
+          "index": 5,
+          "title": "Flamenco Sketches",
+          "length": 564800
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/79ed3ff2-1b33-3245-8755-947554bc8b3d.jpg",
+      "coverThumbnail": "img/album/thumbs/79ed3ff2-1b33-3245-8755-947554bc8b3d.jpg",
+      "id": 2009
+    },
+    {
+      "title": "Leviathan",
+      "artist": {
+        "name": "Mastodon",
+        "sortName": "Mastodon",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Mastodon hails from his/her/their very own hometown. The interesting thing about Mastodon's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Mastodon",
+        "id": 1009
+      },
+      "year": "2004",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Blood and Thunder",
+          "length": 229000
+        },
+        {
+          "index": 2,
+          "title": "I Am Ahab",
+          "length": 166000
+        },
+        {
+          "index": 3,
+          "title": "Seabeast",
+          "length": 255000
+        },
+        {
+          "index": 4,
+          "title": "Ísland",
+          "length": 206000
+        },
+        {
+          "index": 5,
+          "title": "Iron Tusk",
+          "length": 183000
+        },
+        {
+          "index": 6,
+          "title": "Megalodon",
+          "length": 263000
+        },
+        {
+          "index": 7,
+          "title": "Naked Burn",
+          "length": 222000
+        },
+        {
+          "index": 8,
+          "title": "Aqua Dementia",
+          "length": 250000
+        },
+        {
+          "index": 9,
+          "title": "Hearts Alive",
+          "length": 820000
+        },
+        {
+          "index": 10,
+          "title": "Joseph Merrick",
+          "length": 215000
+        },
+        {
+          "index": 11,
+          "title": "Where Strides the Behemoth (live)",
+          "length": 198000
+        },
+        {
+          "index": 12,
+          "title": "Battle at Sea (live)",
+          "length": 252000
+        },
+        {
+          "index": 13,
+          "title": "Thank You for This / We Built This Come Death (live)",
+          "length": 241000
+        },
+        {
+          "index": 14,
+          "title": "Crusher Destroyer (live)",
+          "length": 126000
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/b60b50a7-de85-46db-81f1-07bc52a5ee17.jpg",
+      "coverThumbnail": "img/album/thumbs/b60b50a7-de85-46db-81f1-07bc52a5ee17.jpg",
+      "id": 2010
+    },
+    {
+      "title": "The Mollusk",
+      "artist": {
+        "name": "Ween",
+        "sortName": "Ween",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Ween hails from his/her/their very own hometown. The interesting thing about Ween's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Ween",
+        "id": 1010
+      },
+      "year": "1997",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "I’m Dancing in the Show Tonight",
+          "length": 117560
+        },
+        {
+          "index": 2,
+          "title": "The Mollusk",
+          "length": 159000
+        },
+        {
+          "index": 3,
+          "title": "Polka Dot Tail",
+          "length": 201560
+        },
+        {
+          "index": 4,
+          "title": "I’ll Be Your Jonny on the Spot",
+          "length": 122386
+        },
+        {
+          "index": 5,
+          "title": "Mutilated Lips",
+          "length": 230960
+        },
+        {
+          "index": 6,
+          "title": "The Blarney Stone",
+          "length": 196066
+        },
+        {
+          "index": 7,
+          "title": "It’s Gonna Be (Alright)",
+          "length": 200320
+        },
+        {
+          "index": 8,
+          "title": "The Golden Eel",
+          "length": 245360
+        },
+        {
+          "index": 9,
+          "title": "Cold Blows the Wind",
+          "length": 269893
+        },
+        {
+          "index": 10,
+          "title": "Pink Eye (on My Leg)",
+          "length": 194960
+        },
+        {
+          "index": 11,
+          "title": "Waving My Dick in the Wind",
+          "length": 133933
+        },
+        {
+          "index": 12,
+          "title": "Buckingham Green",
+          "length": 200320
+        },
+        {
+          "index": 13,
+          "title": "Ocean Man",
+          "length": 129266
+        },
+        {
+          "index": 14,
+          "title": "She Wanted to Leave (reprise)",
+          "length": 265693
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/5bb989a3-cab7-3ca0-a20a-f5d4d7c30c7c.jpg",
+      "coverThumbnail": "img/album/thumbs/5bb989a3-cab7-3ca0-a20a-f5d4d7c30c7c.jpg",
+      "id": 2011
+    },
+    {
+      "title": "Hatful of Hollow",
+      "artist": {
+        "name": "The Smiths",
+        "sortName": "Smiths, The",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "The Smiths hails from his/her/their very own hometown. The interesting thing about The Smiths's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/The_Smiths",
+        "id": 1011
+      },
+      "year": "1993",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "William, It Was Really Nothing",
+          "length": 131066
+        },
+        {
+          "index": 2,
+          "title": "What Difference Does It Make?",
+          "length": 191866
+        },
+        {
+          "index": 3,
+          "title": "These Things Take Time",
+          "length": 153026
+        },
+        {
+          "index": 4,
+          "title": "This Charming Man",
+          "length": 163000
+        },
+        {
+          "index": 5,
+          "title": "How Soon Is Now?",
+          "length": 404866
+        },
+        {
+          "index": 6,
+          "title": "Handsome Devil",
+          "length": 165733
+        },
+        {
+          "index": 7,
+          "title": "Hand in Glove",
+          "length": 195466
+        },
+        {
+          "index": 8,
+          "title": "Still Ill",
+          "length": 215640
+        },
+        {
+          "index": 9,
+          "title": "Heaven Knows I'm Miserable Now",
+          "length": 214360
+        },
+        {
+          "index": 10,
+          "title": "This Night Has Opened My Eyes",
+          "length": 219600
+        },
+        {
+          "index": 11,
+          "title": "You've Got Everything Now",
+          "length": 258733
+        },
+        {
+          "index": 12,
+          "title": "Accept Yourself",
+          "length": 242040
+        },
+        {
+          "index": 13,
+          "title": "Girl Afraid",
+          "length": 168560
+        },
+        {
+          "index": 14,
+          "title": "Back to the Old House",
+          "length": 182640
+        },
+        {
+          "index": 15,
+          "title": "Reel Around the Fountain",
+          "length": 351333
+        },
+        {
+          "index": 16,
+          "title": "Please, Please, Please, Let Me Get What I Want",
+          "length": 112200
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/2a7d96c5-6460-3aaa-bed6-dc8282c86748.jpg",
+      "coverThumbnail": "img/album/thumbs/2a7d96c5-6460-3aaa-bed6-dc8282c86748.jpg",
+      "id": 2012
+    },
+    {
+      "title": "Flight of the Conchords",
+      "artist": {
+        "name": "Flight of the Conchords",
+        "sortName": "Flight of the Conchords",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Flight of the Conchords hails from his/her/their very own hometown. The interesting thing about Flight of the Conchords's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Flight_of_the_Conchords",
+        "id": 1012
+      },
+      "year": "2008",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Foux du Fafa",
+          "length": 166493
+        },
+        {
+          "index": 2,
+          "title": "Inner City Pressure",
+          "length": 207160
+        },
+        {
+          "index": 3,
+          "title": "Hiphopopotamus vs. Rhymenoceros",
+          "length": 129106
+        },
+        {
+          "index": 4,
+          "title": "Think About It",
+          "length": 194613
+        },
+        {
+          "index": 5,
+          "title": "Ladies of the World",
+          "length": 237146
+        },
+        {
+          "index": 6,
+          "title": "Mutha’uckas",
+          "length": 146880
+        },
+        {
+          "index": 7,
+          "title": "The Prince of Parties",
+          "length": 108466
+        },
+        {
+          "index": 8,
+          "title": "Leggy Blonde",
+          "length": 162080
+        },
+        {
+          "index": 9,
+          "title": "Robots",
+          "length": 223360
+        },
+        {
+          "index": 10,
+          "title": "Boom",
+          "length": 137493
+        },
+        {
+          "index": 11,
+          "title": "A Kiss Is Not a Contract",
+          "length": 114946
+        },
+        {
+          "index": 12,
+          "title": "The Most Beautiful Girl (In the Room)",
+          "length": 242160
+        },
+        {
+          "index": 13,
+          "title": "Business Time",
+          "length": 245160
+        },
+        {
+          "index": 14,
+          "title": "Bowie",
+          "length": 195613
+        },
+        {
+          "index": 15,
+          "title": "Au revoir",
+          "length": 21693
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/bf5634ca-e3c7-3fc7-816d-dbb7dbcbcd09.jpg",
+      "coverThumbnail": "img/album/thumbs/bf5634ca-e3c7-3fc7-816d-dbb7dbcbcd09.jpg",
+      "id": 2013
+    },
+    {
+      "title": "The Phosphorescent Blues",
+      "artist": {
+        "name": "Punch Brothers",
+        "sortName": "Punch Brothers",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Punch Brothers hails from his/her/their very own hometown. The interesting thing about Punch Brothers's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Punch_Brothers",
+        "id": 1013
+      },
+      "year": "2015",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Familiarity",
+          "length": 623000
+        },
+        {
+          "index": 2,
+          "title": "Julep",
+          "length": 327000
+        },
+        {
+          "index": 3,
+          "title": "Passepied",
+          "length": 210000
+        },
+        {
+          "index": 4,
+          "title": "I Blew It Off",
+          "length": 187000
+        },
+        {
+          "index": 5,
+          "title": "Magnet",
+          "length": 194000
+        },
+        {
+          "index": 6,
+          "title": "My Oh My",
+          "length": 259000
+        },
+        {
+          "index": 7,
+          "title": "Boll Weevil",
+          "length": 157000
+        },
+        {
+          "index": 8,
+          "title": "Prélude",
+          "length": 58000
+        },
+        {
+          "index": 9,
+          "title": "Forgotten",
+          "length": 257000
+        },
+        {
+          "index": 10,
+          "title": "Between 1st and A",
+          "length": 256000
+        },
+        {
+          "index": 11,
+          "title": "Little Lights",
+          "length": 282000
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/0820e959-e124-464e-a3af-e9ff6f78dbf7.jpg",
+      "coverThumbnail": "img/album/thumbs/0820e959-e124-464e-a3af-e9ff6f78dbf7.jpg",
+      "id": 2014
+    },
+    {
+      "title": "Giant Steps",
+      "artist": {
+        "name": "John Coltrane",
+        "sortName": "Coltrane, John",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "John Coltrane hails from his/her/their very own hometown. The interesting thing about John Coltrane's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/John_Coltrane",
+        "id": 1014
+      },
+      "year": "2006",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Giant Steps",
+          "length": 289040
+        },
+        {
+          "index": 2,
+          "title": "Cousin Mary",
+          "length": 352026
+        },
+        {
+          "index": 3,
+          "title": "Countdown",
+          "length": 147506
+        },
+        {
+          "index": 4,
+          "title": "Spiral",
+          "length": 365026
+        },
+        {
+          "index": 5,
+          "title": "Syeeda's Song Flute",
+          "length": 427800
+        },
+        {
+          "index": 6,
+          "title": "Naima",
+          "length": 267493
+        },
+        {
+          "index": 7,
+          "title": "Mr. P.C.",
+          "length": 425213
+        },
+        {
+          "index": 8,
+          "title": "Giant Steps (alternate version 1)",
+          "length": 226266
+        },
+        {
+          "index": 9,
+          "title": "Naima (alternate version 1)",
+          "length": 274173
+        },
+        {
+          "index": 10,
+          "title": "Cousin Mary (alternate take)",
+          "length": 352386
+        },
+        {
+          "index": 11,
+          "title": "Countdown (alternate take)",
+          "length": 279946
+        },
+        {
+          "index": 12,
+          "title": "Syeeda's Song Flute (alternate take)",
+          "length": 433573
+        },
+        {
+          "index": 13,
+          "title": "Giant Steps (alternate version 2)",
+          "length": 213986
+        },
+        {
+          "index": 14,
+          "title": "Naima (alternate version 2)",
+          "length": 209733
+        },
+        {
+          "index": 15,
+          "title": "Giant Steps (alternate take)",
+          "length": 291320
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/d10394d4-e645-3896-8396-412ba59be618.jpg",
+      "coverThumbnail": "img/album/thumbs/d10394d4-e645-3896-8396-412ba59be618.jpg",
+      "id": 2015
+    },
+    {
+      "title": "Kid A",
+      "artist": {
+        "name": "Radiohead",
+        "sortName": "Radiohead",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Radiohead hails from his/her/their very own hometown. The interesting thing about Radiohead's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Radiohead",
+        "id": 1015
+      },
+      "year": "2000",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Everything in Its Right Place",
+          "length": 251426
+        },
+        {
+          "index": 2,
+          "title": "Kid A",
+          "length": 284506
+        },
+        {
+          "index": 3,
+          "title": "The National Anthem",
+          "length": 351693
+        },
+        {
+          "index": 4,
+          "title": "How to Disappear Completely",
+          "length": 356333
+        },
+        {
+          "index": 5,
+          "title": "Treefingers",
+          "length": 222600
+        },
+        {
+          "index": 6,
+          "title": "Optimistic",
+          "length": 315973
+        },
+        {
+          "index": 7,
+          "title": "In Limbo",
+          "length": 211000
+        },
+        {
+          "index": 8,
+          "title": "Idioteque",
+          "length": 309093
+        },
+        {
+          "index": 9,
+          "title": "Morning Bell",
+          "length": 275800
+        },
+        {
+          "index": 10,
+          "title": "Motion Picture Soundtrack",
+          "length": 419466
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/f947caf6-2da7-3a57-aa4b-0d5e374226ce.jpg",
+      "coverThumbnail": "img/album/thumbs/f947caf6-2da7-3a57-aa4b-0d5e374226ce.jpg",
+      "id": 2016
+    },
+    {
+      "title": "OK Computer",
+      "artist": {
+        "name": "Radiohead",
+        "sortName": "Radiohead",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Radiohead hails from his/her/their very own hometown. The interesting thing about Radiohead's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Radiohead",
+        "id": 1015
+      },
+      "year": "1997",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Airbag",
+          "length": 284400
+        },
+        {
+          "index": 2,
+          "title": "Paranoid Android",
+          "length": 383493
+        },
+        {
+          "index": 3,
+          "title": "Subterranean Homesick Alien",
+          "length": 267706
+        },
+        {
+          "index": 4,
+          "title": "Exit Music (for a Film)",
+          "length": 264800
+        },
+        {
+          "index": 5,
+          "title": "Let Down",
+          "length": 299266
+        },
+        {
+          "index": 6,
+          "title": "Karma Police",
+          "length": 261626
+        },
+        {
+          "index": 7,
+          "title": "Fitter Happier",
+          "length": 117333
+        },
+        {
+          "index": 8,
+          "title": "Electioneering",
+          "length": 230640
+        },
+        {
+          "index": 9,
+          "title": "Climbing Up the Walls",
+          "length": 285200
+        },
+        {
+          "index": 10,
+          "title": "No Surprises",
+          "length": 228533
+        },
+        {
+          "index": 11,
+          "title": "Lucky",
+          "length": 259626
+        },
+        {
+          "index": 12,
+          "title": "The Tourist",
+          "length": 324533
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/fba5f8fe-c6c8-4511-8562-c9febf482674.jpg",
+      "coverThumbnail": "img/album/thumbs/fba5f8fe-c6c8-4511-8562-c9febf482674.jpg",
+      "id": 2017
+    },
+    {
+      "title": "Keep It Like a Secret",
+      "artist": {
+        "name": "Built to Spill",
+        "sortName": "Built to Spill",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Built to Spill hails from his/her/their very own hometown. The interesting thing about Built to Spill's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Built_to_Spill",
+        "id": 1016
+      },
+      "year": "1999",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "The Plan",
+          "length": 209400
+        },
+        {
+          "index": 2,
+          "title": "Center of the Universe",
+          "length": 163533
+        },
+        {
+          "index": 3,
+          "title": "Carry the Zero",
+          "length": 344133
+        },
+        {
+          "index": 4,
+          "title": "Sidewalk",
+          "length": 231773
+        },
+        {
+          "index": 5,
+          "title": "Bad Light",
+          "length": 202160
+        },
+        {
+          "index": 6,
+          "title": "Time Trap",
+          "length": 322440
+        },
+        {
+          "index": 7,
+          "title": "Else",
+          "length": 249333
+        },
+        {
+          "index": 8,
+          "title": "You Were Right",
+          "length": 285666
+        },
+        {
+          "index": 9,
+          "title": "Temporarily Blind",
+          "length": 288560
+        },
+        {
+          "index": 10,
+          "title": "Broken Chairs",
+          "length": 520640
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/4eac7bfa-5248-4d9c-9114-87d97d7fea31.jpg",
+      "coverThumbnail": "img/album/thumbs/4eac7bfa-5248-4d9c-9114-87d97d7fea31.jpg",
+      "id": 2018
+    },
+    {
+      "title": "Pink Flag",
+      "artist": {
+        "name": "Wire",
+        "sortName": "Wire",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Wire hails from his/her/their very own hometown. The interesting thing about Wire's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Wire",
+        "id": 1017
+      },
+      "year": "1994",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Reuters",
+          "length": 183666
+        },
+        {
+          "index": 2,
+          "title": "Field Day for the Sundays",
+          "length": 28266
+        },
+        {
+          "index": 3,
+          "title": "Three Girl Rhumba",
+          "length": 83573
+        },
+        {
+          "index": 4,
+          "title": "Ex Lion Tamer",
+          "length": 139360
+        },
+        {
+          "index": 5,
+          "title": "Lowdown",
+          "length": 146600
+        },
+        {
+          "index": 6,
+          "title": "Start to Move",
+          "length": 73066
+        },
+        {
+          "index": 7,
+          "title": "Brazil",
+          "length": 41040
+        },
+        {
+          "index": 8,
+          "title": "It's So Obvious",
+          "length": 53693
+        },
+        {
+          "index": 9,
+          "title": "Surgeon's Girl",
+          "length": 77706
+        },
+        {
+          "index": 10,
+          "title": "Pink Flag",
+          "length": 227493
+        },
+        {
+          "index": 11,
+          "title": "The Commercial",
+          "length": 49266
+        },
+        {
+          "index": 12,
+          "title": "Straight Line",
+          "length": 44533
+        },
+        {
+          "index": 13,
+          "title": "106 Beats That",
+          "length": 72773
+        },
+        {
+          "index": 14,
+          "title": "Mr. Suit",
+          "length": 85226
+        },
+        {
+          "index": 15,
+          "title": "Strange",
+          "length": 238840
+        },
+        {
+          "index": 16,
+          "title": "Fragile",
+          "length": 78400
+        },
+        {
+          "index": 17,
+          "title": "Mannequin",
+          "length": 157426
+        },
+        {
+          "index": 18,
+          "title": "Different to Me",
+          "length": 43866
+        },
+        {
+          "index": 19,
+          "title": "Champs",
+          "length": 106066
+        },
+        {
+          "index": 20,
+          "title": "Feeling Called Love",
+          "length": 82533
+        },
+        {
+          "index": 21,
+          "title": "1 2 X U",
+          "length": 115640
+        },
+        {
+          "index": 22,
+          "title": "Dot Dash",
+          "length": 145693
+        },
+        {
+          "index": 23,
+          "title": "Options R",
+          "length": 96666
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/5bda4b0f-3868-4fce-9852-063a4fae6681.jpg",
+      "coverThumbnail": "img/album/thumbs/5bda4b0f-3868-4fce-9852-063a4fae6681.jpg",
+      "id": 2019
+    },
+    {
+      "title": "Brilliant Corners",
+      "artist": {
+        "name": "Thelonious Monk",
+        "sortName": "Monk, Thelonious",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Thelonious Monk hails from his/her/their very own hometown. The interesting thing about Thelonious Monk's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Thelonious_Monk",
+        "id": 1018
+      },
+      "year": "2008",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Brilliant Corners",
+          "length": 467760
+        },
+        {
+          "index": 2,
+          "title": "Ba-Lue Bolivar Ba-Lues-Are",
+          "length": 799306
+        },
+        {
+          "index": 3,
+          "title": "Pannonica",
+          "length": 532560
+        },
+        {
+          "index": 4,
+          "title": "I Surrender, Dear",
+          "length": 327520
+        },
+        {
+          "index": 5,
+          "title": "Bemsha Swing",
+          "length": 464240
+        },
+        {
+          "index": 6,
+          "title": "Pannonica (incomplete)",
+          "length": 154400
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/6dcf1e6d-e808-44b5-8598-116d9f372e7e.jpg",
+      "coverThumbnail": "img/album/thumbs/6dcf1e6d-e808-44b5-8598-116d9f372e7e.jpg",
+      "id": 2020
+    },
+    {
+      "title": "Run the Jewels",
+      "artist": {
+        "name": "Run the Jewels",
+        "sortName": "Run the Jewels",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Run the Jewels hails from his/her/their very own hometown. The interesting thing about Run the Jewels's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Run_the_Jewels",
+        "id": 1019
+      },
+      "year": "2014",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Run the Jewels",
+          "length": 211000
+        },
+        {
+          "index": 2,
+          "title": "Banana Clipper",
+          "length": 171000
+        },
+        {
+          "index": 3,
+          "title": "36″ Chain",
+          "length": 172000
+        },
+        {
+          "index": 4,
+          "title": "DDFH",
+          "length": 185000
+        },
+        {
+          "index": 5,
+          "title": "Sea Legs",
+          "length": 220000
+        },
+        {
+          "index": 6,
+          "title": "Job Well Done",
+          "length": 180000
+        },
+        {
+          "index": 7,
+          "title": "No Come Down",
+          "length": 208000
+        },
+        {
+          "index": 8,
+          "title": "Get It",
+          "length": 180000
+        },
+        {
+          "index": 9,
+          "title": "Twin Hype Back",
+          "length": 192000
+        },
+        {
+          "index": 10,
+          "title": "A Christmas Fucking Miracle",
+          "length": 261000
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/361d8cd8-653c-4fa9-a23c-58bbdc1d99d5.jpg",
+      "coverThumbnail": "img/album/thumbs/361d8cd8-653c-4fa9-a23c-58bbdc1d99d5.jpg",
+      "id": 2021
+    },
+    {
+      "title": "Stranded",
+      "artist": {
+        "name": "Roxy Music",
+        "sortName": "Roxy Music",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Roxy Music hails from his/her/their very own hometown. The interesting thing about Roxy Music's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Roxy_Music",
+        "id": 1020
+      },
+      "year": "2000",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Street Life",
+          "length": 209000
+        },
+        {
+          "index": 2,
+          "title": "Just Like You",
+          "length": 217000
+        },
+        {
+          "index": 3,
+          "title": "Amazona",
+          "length": 257000
+        },
+        {
+          "index": 4,
+          "title": "Psalm",
+          "length": 485000
+        },
+        {
+          "index": 5,
+          "title": "Serenade",
+          "length": 179000
+        },
+        {
+          "index": 6,
+          "title": "A Song for Europe",
+          "length": 347000
+        },
+        {
+          "index": 7,
+          "title": "Mother of Pearl",
+          "length": 413000
+        },
+        {
+          "index": 8,
+          "title": "Sunset",
+          "length": 365000
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/9e443dc7-20c5-4eb4-9b4d-da1c9990cf12.jpg",
+      "coverThumbnail": "img/album/thumbs/9e443dc7-20c5-4eb4-9b4d-da1c9990cf12.jpg",
+      "id": 2022
+    },
+    {
+      "title": "Tres hombres",
+      "artist": {
+        "name": "ZZ Top",
+        "sortName": "ZZ Top",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "ZZ Top hails from his/her/their very own hometown. The interesting thing about ZZ Top's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/ZZ_Top",
+        "id": 1021
+      },
+      "year": "",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Waitin’ for the Bus",
+          "length": 174000
+        },
+        {
+          "index": 2,
+          "title": "Jesus Just Left Chicago",
+          "length": 212000
+        },
+        {
+          "index": 3,
+          "title": "Beer Drinkers & Hell Raisers",
+          "length": 207000
+        },
+        {
+          "index": 4,
+          "title": "Master of Sparks",
+          "length": 211000
+        },
+        {
+          "index": 5,
+          "title": "Hot, Blue and Righteous",
+          "length": 198000
+        },
+        {
+          "index": 6,
+          "title": "Move Me on Down the Line",
+          "length": 150000
+        },
+        {
+          "index": 7,
+          "title": "Precious and Grace",
+          "length": 190000
+        },
+        {
+          "index": 8,
+          "title": "La Grange",
+          "length": 234000
+        },
+        {
+          "index": 9,
+          "title": "Shiek",
+          "length": 245000
+        },
+        {
+          "index": 10,
+          "title": "Have You Heard?",
+          "length": 193000
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/4079bc56-9af8-49c0-90cd-d7851485c2d0.jpg",
+      "coverThumbnail": "img/album/thumbs/4079bc56-9af8-49c0-90cd-d7851485c2d0.jpg",
+      "id": 2023
+    },
+    {
+      "title": "Eat a Peach",
+      "artist": {
+        "name": "The Allman Brothers Band",
+        "sortName": "Allman Brothers Band, The",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "The Allman Brothers Band hails from his/her/their very own hometown. The interesting thing about The Allman Brothers Band's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/The_Allman_Brothers_Band",
+        "id": 1022
+      },
+      "year": "1989",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Ain’t Wastin’ Time No More",
+          "length": 222466
+        },
+        {
+          "index": 2,
+          "title": "Les Brers in A Minor",
+          "length": 546533
+        },
+        {
+          "index": 3,
+          "title": "Melissa",
+          "length": 237000
+        },
+        {
+          "index": 4,
+          "title": "Mountain Jam",
+          "length": 2020666
+        },
+        {
+          "index": 5,
+          "title": "One Way Out",
+          "length": 297666
+        },
+        {
+          "index": 6,
+          "title": "Trouble No More",
+          "length": 226093
+        },
+        {
+          "index": 7,
+          "title": "Stand Back",
+          "length": 207573
+        },
+        {
+          "index": 8,
+          "title": "Blue Sky",
+          "length": 312000
+        },
+        {
+          "index": 9,
+          "title": "Little Martha",
+          "length": 127826
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/24b20f28-6a09-4c6e-9f5a-d683f366da74.jpg",
+      "coverThumbnail": "img/album/thumbs/24b20f28-6a09-4c6e-9f5a-d683f366da74.jpg",
+      "id": 2024
+    },
+    {
+      "title": "Apostrophe (’) / Over‐Nite Sensation",
+      "artist": {
+        "name": "Frank Zappa",
+        "sortName": "Zappa, Frank",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Frank Zappa hails from his/her/their very own hometown. The interesting thing about Frank Zappa's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Frank_Zappa",
+        "id": 1023
+      },
+      "year": "1986",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Don’t Eat the Yellow Snow",
+          "length": 127466
+        },
+        {
+          "index": 2,
+          "title": "Nanook Rubs It",
+          "length": 278000
+        },
+        {
+          "index": 3,
+          "title": "St. Alphonzo’s Pancake Breakfast",
+          "length": 110733
+        },
+        {
+          "index": 4,
+          "title": "Father O’blivion",
+          "length": 138066
+        },
+        {
+          "index": 5,
+          "title": "Cosmik Debris",
+          "length": 256600
+        },
+        {
+          "index": 6,
+          "title": "Excentrifugal Forz",
+          "length": 91706
+        },
+        {
+          "index": 7,
+          "title": "Apostrophe’",
+          "length": 352733
+        },
+        {
+          "index": 8,
+          "title": "Uncle Remus",
+          "length": 164493
+        },
+        {
+          "index": 9,
+          "title": "Stink‐Foot",
+          "length": 397600
+        },
+        {
+          "index": 10,
+          "title": "Camarillo Brillo",
+          "length": 239133
+        },
+        {
+          "index": 11,
+          "title": "I’m the Slime",
+          "length": 214733
+        },
+        {
+          "index": 12,
+          "title": "Dirty Love",
+          "length": 178840
+        },
+        {
+          "index": 13,
+          "title": "50/50",
+          "length": 370426
+        },
+        {
+          "index": 14,
+          "title": "Zomby Woof",
+          "length": 310666
+        },
+        {
+          "index": 15,
+          "title": "Dinah‐Moe‐Hum",
+          "length": 363866
+        },
+        {
+          "index": 16,
+          "title": "Montana",
+          "length": 397840
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/865af106-5b21-4fb3-aaea-c6ee35197178.jpg",
+      "coverThumbnail": "img/album/thumbs/865af106-5b21-4fb3-aaea-c6ee35197178.jpg",
+      "id": 2025
+    },
+    {
+      "title": "Doolittle 25",
+      "artist": {
+        "name": "Pixies",
+        "sortName": "Pixies",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Pixies hails from his/her/their very own hometown. The interesting thing about Pixies's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Pixies",
+        "id": 1024
+      },
+      "year": "2014",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Debaser",
+          "length": 173000
+        },
+        {
+          "index": 2,
+          "title": "Tame",
+          "length": 115706
+        },
+        {
+          "index": 3,
+          "title": "Wave of Mutilation",
+          "length": 124800
+        },
+        {
+          "index": 4,
+          "title": "I Bleed",
+          "length": 154760
+        },
+        {
+          "index": 5,
+          "title": "Here Comes Your Man",
+          "length": 201706
+        },
+        {
+          "index": 6,
+          "title": "Dead",
+          "length": 141360
+        },
+        {
+          "index": 7,
+          "title": "Monkey Gone to Heaven",
+          "length": 177000
+        },
+        {
+          "index": 8,
+          "title": "Mr. Grieves",
+          "length": 125773
+        },
+        {
+          "index": 9,
+          "title": "Crackity Jones",
+          "length": 84200
+        },
+        {
+          "index": 10,
+          "title": "La La Love You",
+          "length": 163666
+        },
+        {
+          "index": 11,
+          "title": "No. 13 Baby",
+          "length": 231600
+        },
+        {
+          "index": 12,
+          "title": "There Goes My Gun",
+          "length": 109533
+        },
+        {
+          "index": 13,
+          "title": "Hey",
+          "length": 211466
+        },
+        {
+          "index": 14,
+          "title": "Silver",
+          "length": 145226
+        },
+        {
+          "index": 15,
+          "title": "Gouge Away",
+          "length": 164906
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/e30cf060-0ef5-430c-8908-9d86195df680.jpg",
+      "coverThumbnail": "img/album/thumbs/e30cf060-0ef5-430c-8908-9d86195df680.jpg",
+      "id": 2026
+    },
+    {
+      "title": "Sticky Fingers (The Alternate Album)",
+      "artist": {
+        "name": "The Rolling Stones",
+        "sortName": "Rolling Stones, The",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "The Rolling Stones hails from his/her/their very own hometown. The interesting thing about The Rolling Stones's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/The_Rolling_Stones",
+        "id": 1025
+      },
+      "year": "",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Brown Sugar (early vocal)",
+          "length": 228000
+        },
+        {
+          "index": 2,
+          "title": "Sway (No Overdubs)",
+          "length": 204000
+        },
+        {
+          "index": 3,
+          "title": "Wild Horses (unplugged)",
+          "length": 337000
+        },
+        {
+          "index": 4,
+          "title": "Good Time Women (early version)",
+          "length": 204000
+        },
+        {
+          "index": 5,
+          "title": "Silver Train (early version)",
+          "length": 204000
+        },
+        {
+          "index": 6,
+          "title": "You Gotta Move (Mono)",
+          "length": 151000
+        },
+        {
+          "index": 7,
+          "title": "Bitch (original 7 in Mono)",
+          "length": 211000
+        },
+        {
+          "index": 8,
+          "title": "I Got the Blues (Mono)",
+          "length": 211000
+        },
+        {
+          "index": 9,
+          "title": "Sister Morphine (Basic Stereo)",
+          "length": 324000
+        },
+        {
+          "index": 10,
+          "title": "All Down the Line (early rehearsal)",
+          "length": 266000
+        },
+        {
+          "index": 11,
+          "title": "Travelin' Man (Unreleased)",
+          "length": 353000
+        },
+        {
+          "index": 12,
+          "title": "Potted Shrimp (Unreleased instrumental)",
+          "length": 252000
+        },
+        {
+          "index": 13,
+          "title": "Aladdin Story (Unreleased instrumental)",
+          "length": 235000
+        },
+        {
+          "index": 14,
+          "title": "Leather Jacket (Unreleased instrumental)",
+          "length": 211000
+        },
+        {
+          "index": 15,
+          "title": "Wild Horses (1969 rehearsal)",
+          "length": 97000
+        },
+        {
+          "index": 16,
+          "title": "Wild Horses (with Graham Parsons)",
+          "length": 326000
+        },
+        {
+          "index": 17,
+          "title": "Brown Sugar (Different Guitar)",
+          "length": 226000
+        },
+        {
+          "index": 18,
+          "title": "Brown Sugar (Another Different mix)",
+          "length": 227000
+        },
+        {
+          "index": 19,
+          "title": "Brown Sugar (original 7 in Mono)",
+          "length": 227000
+        },
+        {
+          "index": 20,
+          "title": "Let It Rock (original 7 in Mono)",
+          "length": 155000
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/33a6719b-7872-4786-9b26-d7e1c29414d1.jpg",
+      "coverThumbnail": "img/album/thumbs/33a6719b-7872-4786-9b26-d7e1c29414d1.jpg",
+      "id": 2027
+    },
+    {
+      "title": "Some Girls",
+      "artist": {
+        "name": "The Rolling Stones",
+        "sortName": "Rolling Stones, The",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "The Rolling Stones hails from his/her/their very own hometown. The interesting thing about The Rolling Stones's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/The_Rolling_Stones",
+        "id": 1025
+      },
+      "year": "2013",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Miss You",
+          "length": 288000
+        },
+        {
+          "index": 2,
+          "title": "When the Whip Comes Down",
+          "length": 260000
+        },
+        {
+          "index": 3,
+          "title": "Just My Imagination (Running Away With Me)",
+          "length": 278000
+        },
+        {
+          "index": 4,
+          "title": "Some Girls",
+          "length": 276000
+        },
+        {
+          "index": 5,
+          "title": "Lies",
+          "length": 191000
+        },
+        {
+          "index": 6,
+          "title": "Far Away Eyes",
+          "length": 263000
+        },
+        {
+          "index": 7,
+          "title": "Respectable",
+          "length": 187000
+        },
+        {
+          "index": 8,
+          "title": "Before They Make Me Run",
+          "length": 204000
+        },
+        {
+          "index": 9,
+          "title": "Beast of Burden",
+          "length": 265000
+        },
+        {
+          "index": 10,
+          "title": "Shattered",
+          "length": 226000
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/635239b4-986a-4cb7-90ba-bf213d5c9f78.jpg",
+      "coverThumbnail": "img/album/thumbs/635239b4-986a-4cb7-90ba-bf213d5c9f78.jpg",
+      "id": 2028
+    },
+    {
+      "title": "Let It Bleed",
+      "artist": {
+        "name": "The Rolling Stones",
+        "sortName": "Rolling Stones, The",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "The Rolling Stones hails from his/her/their very own hometown. The interesting thing about The Rolling Stones's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/The_Rolling_Stones",
+        "id": 1025
+      },
+      "year": "2005",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Gimme Shelter",
+          "length": 270000
+        },
+        {
+          "index": 2,
+          "title": "Love in Vain",
+          "length": 259000
+        },
+        {
+          "index": 3,
+          "title": "Country Honk",
+          "length": 187000
+        },
+        {
+          "index": 4,
+          "title": "Live With Me",
+          "length": 213000
+        },
+        {
+          "index": 5,
+          "title": "Let It Bleed",
+          "length": 327000
+        },
+        {
+          "index": 6,
+          "title": "Midnight Rambler",
+          "length": 412000
+        },
+        {
+          "index": 7,
+          "title": "You Got the Silver",
+          "length": 170000
+        },
+        {
+          "index": 8,
+          "title": "Monkey Man",
+          "length": 251000
+        },
+        {
+          "index": 9,
+          "title": "You Can’t Always Get What You Want",
+          "length": 448000
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/8ac0d5a6-d4e1-450e-8c18-acb8236446ec.jpg",
+      "coverThumbnail": "img/album/thumbs/8ac0d5a6-d4e1-450e-8c18-acb8236446ec.jpg",
+      "id": 2029
+    },
+    {
+      "title": "Rubber Soul",
+      "artist": {
+        "name": "The Beatles",
+        "sortName": "Beatles, The",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "The Beatles hails from his/her/their very own hometown. The interesting thing about The Beatles's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/The_Beatles",
+        "id": 1026
+      },
+      "year": "1965",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "I’ve Just Seen a Face",
+          "length": 129000
+        },
+        {
+          "index": 2,
+          "title": "Norwegian Wood (This Bird Has Flown)",
+          "length": 128000
+        },
+        {
+          "index": 3,
+          "title": "You Won’t See Me",
+          "length": 208000
+        },
+        {
+          "index": 4,
+          "title": "Think for Yourself",
+          "length": 142000
+        },
+        {
+          "index": 5,
+          "title": "The Word",
+          "length": 168000
+        },
+        {
+          "index": 6,
+          "title": "Michelle",
+          "length": 167000
+        },
+        {
+          "index": 7,
+          "title": "It’s Only Love",
+          "length": 119000
+        },
+        {
+          "index": 8,
+          "title": "Girl",
+          "length": 154000
+        },
+        {
+          "index": 9,
+          "title": "I’m Looking Through You",
+          "length": 153000
+        },
+        {
+          "index": 10,
+          "title": "In My Life",
+          "length": 150000
+        },
+        {
+          "index": 11,
+          "title": "Wait",
+          "length": 138000
+        },
+        {
+          "index": 12,
+          "title": "Run for Your Life",
+          "length": 143000
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/cc1ff06c-2fed-47e9-97f7-6d8cbba90833.jpg",
+      "coverThumbnail": "img/album/thumbs/cc1ff06c-2fed-47e9-97f7-6d8cbba90833.jpg",
+      "id": 2030
+    },
+    {
+      "title": "Here Come the Warm Jets",
+      "artist": {
+        "name": "Brian Eno",
+        "sortName": "Eno, Brian",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Brian Eno hails from his/her/their very own hometown. The interesting thing about Brian Eno's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Brian_Eno",
+        "id": 1027
+      },
+      "year": "2009",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Needles in the Camel's Eye",
+          "length": 191053
+        },
+        {
+          "index": 2,
+          "title": "The Paw Paw Negro Blowtorch",
+          "length": 184986
+        },
+        {
+          "index": 3,
+          "title": "Baby's on Fire",
+          "length": 319373
+        },
+        {
+          "index": 4,
+          "title": "Cindy Tells Me",
+          "length": 205413
+        },
+        {
+          "index": 5,
+          "title": "Driving Me Backwards",
+          "length": 312146
+        },
+        {
+          "index": 6,
+          "title": "On Some Faraway Beach",
+          "length": 276026
+        },
+        {
+          "index": 7,
+          "title": "Blank Frank",
+          "length": 217226
+        },
+        {
+          "index": 8,
+          "title": "Dead Finks Don't Talk",
+          "length": 259573
+        },
+        {
+          "index": 9,
+          "title": "Some of Them Are Old",
+          "length": 311066
+        },
+        {
+          "index": 10,
+          "title": "Here Come the Warm Jets",
+          "length": 244773
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/8cfbab23-6dcc-33f0-b4f8-a3ce3b3b2f31.jpg",
+      "coverThumbnail": "img/album/thumbs/8cfbab23-6dcc-33f0-b4f8-a3ce3b3b2f31.jpg",
+      "id": 2031
+    },
+    {
+      "title": "Bee Thousand",
+      "artist": {
+        "name": "Guided by Voices",
+        "sortName": "Guided by Voices",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Guided by Voices hails from his/her/their very own hometown. The interesting thing about Guided by Voices's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Guided_by_Voices",
+        "id": 1028
+      },
+      "year": "1994",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Hardcore UFO’s",
+          "length": 114066
+        },
+        {
+          "index": 2,
+          "title": "Buzzards and Dreadful Crows",
+          "length": 103066
+        },
+        {
+          "index": 3,
+          "title": "Tractor Rape Chain",
+          "length": 184840
+        },
+        {
+          "index": 4,
+          "title": "The Goldheart Mountaintop Queen Directory",
+          "length": 105333
+        },
+        {
+          "index": 5,
+          "title": "Hot Freaks",
+          "length": 102693
+        },
+        {
+          "index": 6,
+          "title": "Smothered in Hugs",
+          "length": 180000
+        },
+        {
+          "index": 7,
+          "title": "Yours to Keep",
+          "length": 75306
+        },
+        {
+          "index": 8,
+          "title": "Echos Myron",
+          "length": 162293
+        },
+        {
+          "index": 9,
+          "title": "Gold Star for Robot Boy",
+          "length": 99306
+        },
+        {
+          "index": 10,
+          "title": "Awful Bliss",
+          "length": 72466
+        },
+        {
+          "index": 11,
+          "title": "Mincer Ray",
+          "length": 141026
+        },
+        {
+          "index": 12,
+          "title": "A Big Fan of the Pigpen",
+          "length": 129306
+        },
+        {
+          "index": 13,
+          "title": "Queen of Cans and Jars",
+          "length": 115160
+        },
+        {
+          "index": 14,
+          "title": "Her Psychology Today",
+          "length": 124040
+        },
+        {
+          "index": 15,
+          "title": "Kicker of Elves",
+          "length": 64160
+        },
+        {
+          "index": 16,
+          "title": "Ester’s Day",
+          "length": 111133
+        },
+        {
+          "index": 17,
+          "title": "Demons Are Real",
+          "length": 48506
+        },
+        {
+          "index": 18,
+          "title": "I Am a Scientist",
+          "length": 144400
+        },
+        {
+          "index": 19,
+          "title": "Peep-Hole",
+          "length": 85266
+        },
+        {
+          "index": 20,
+          "title": "You’re Not an Airplane",
+          "length": 33293
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/d3c41053-d106-3d29-962c-b8ed80905209.jpg",
+      "coverThumbnail": "img/album/thumbs/d3c41053-d106-3d29-962c-b8ed80905209.jpg",
+      "id": 2032
+    },
+    {
+      "title": "Alien Lanes",
+      "artist": {
+        "name": "Guided by Voices",
+        "sortName": "Guided by Voices",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Guided by Voices hails from his/her/their very own hometown. The interesting thing about Guided by Voices's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Guided_by_Voices",
+        "id": 1028
+      },
+      "year": "1995",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "A Salty Salute",
+          "length": 89066
+        },
+        {
+          "index": 2,
+          "title": "Evil Speakers",
+          "length": 58506
+        },
+        {
+          "index": 3,
+          "title": "Watch Me Jumpstart",
+          "length": 144133
+        },
+        {
+          "index": 4,
+          "title": "They're Not Witches",
+          "length": 51133
+        },
+        {
+          "index": 5,
+          "title": "As We Go Up, We Go Down",
+          "length": 97226
+        },
+        {
+          "index": 6,
+          "title": "(I Wanna Be A) Dumbcharger",
+          "length": 73533
+        },
+        {
+          "index": 7,
+          "title": "Game of Pricks",
+          "length": 93306
+        },
+        {
+          "index": 8,
+          "title": "The Ugly Vision",
+          "length": 95026
+        },
+        {
+          "index": 9,
+          "title": "A Good Flying Bird",
+          "length": 67666
+        },
+        {
+          "index": 10,
+          "title": "Cigarette Tricks",
+          "length": 18466
+        },
+        {
+          "index": 11,
+          "title": "Pimple Zoo",
+          "length": 42800
+        },
+        {
+          "index": 12,
+          "title": "Big Chief Chinese Restaurant",
+          "length": 56733
+        },
+        {
+          "index": 13,
+          "title": "Closer You Are",
+          "length": 116640
+        },
+        {
+          "index": 14,
+          "title": "Auditorium",
+          "length": 62360
+        },
+        {
+          "index": 15,
+          "title": "Motor Away",
+          "length": 126800
+        },
+        {
+          "index": 16,
+          "title": "Hit",
+          "length": 22933
+        },
+        {
+          "index": 17,
+          "title": "My Valuable Hunting Knife",
+          "length": 120333
+        },
+        {
+          "index": 18,
+          "title": "Gold Hick",
+          "length": 30040
+        },
+        {
+          "index": 19,
+          "title": "King and Caroline",
+          "length": 96000
+        },
+        {
+          "index": 20,
+          "title": "Striped White Jets",
+          "length": 135093
+        },
+        {
+          "index": 21,
+          "title": "Ex-Supermodel",
+          "length": 66666
+        },
+        {
+          "index": 22,
+          "title": "Blimps Go 90",
+          "length": 100466
+        },
+        {
+          "index": 23,
+          "title": "Strawdogs",
+          "length": 77506
+        },
+        {
+          "index": 24,
+          "title": "Chicken Blows",
+          "length": 141960
+        },
+        {
+          "index": 25,
+          "title": "Little Whirl",
+          "length": 106906
+        },
+        {
+          "index": 26,
+          "title": "My Son Cool",
+          "length": 101026
+        },
+        {
+          "index": 27,
+          "title": "Always Crush Me",
+          "length": 104800
+        },
+        {
+          "index": 28,
+          "title": "Alright",
+          "length": 176133
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/20a4d60d-b812-48bc-ad79-e746f6c5f89c.jpg",
+      "coverThumbnail": "img/album/thumbs/20a4d60d-b812-48bc-ad79-e746f6c5f89c.jpg",
+      "id": 2033
+    },
+    {
+      "title": "The Impossible Kid (instrumental version)",
+      "artist": {
+        "name": "Aesop Rock",
+        "sortName": "Aesop Rock",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Aesop Rock hails from his/her/their very own hometown. The interesting thing about Aesop Rock's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Aesop_Rock",
+        "id": 1029
+      },
+      "year": "2016",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Mystery Fish (instrumental)",
+          "length": 188973
+        },
+        {
+          "index": 2,
+          "title": "Rings (instrumental)",
+          "length": 227387
+        },
+        {
+          "index": 3,
+          "title": "Lotta Years (instrumental)",
+          "length": 118947
+        },
+        {
+          "index": 4,
+          "title": "Dorks (instrumental)",
+          "length": 212907
+        },
+        {
+          "index": 5,
+          "title": "Rabies (instrumental)",
+          "length": 185507
+        },
+        {
+          "index": 6,
+          "title": "Supercell (instrumental)",
+          "length": 230600
+        },
+        {
+          "index": 7,
+          "title": "Blood Sandwich (instrumental)",
+          "length": 265333
+        },
+        {
+          "index": 8,
+          "title": "Get Out of the Car (instrumental)",
+          "length": 113187
+        },
+        {
+          "index": 9,
+          "title": "Shrunk (instrumental)",
+          "length": 188613
+        },
+        {
+          "index": 10,
+          "title": "Kirby (instrumental)",
+          "length": 166907
+        },
+        {
+          "index": 11,
+          "title": "TUFF (instrumental)",
+          "length": 231173
+        },
+        {
+          "index": 12,
+          "title": "Lazy Eye (instrumental)",
+          "length": 164853
+        },
+        {
+          "index": 13,
+          "title": "Defender (instrumental)",
+          "length": 191187
+        },
+        {
+          "index": 14,
+          "title": "Water Tower (instrumental)",
+          "length": 230867
+        },
+        {
+          "index": 15,
+          "title": "Molecules (instrumental)",
+          "length": 204227
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/bc19e497-27b1-4473-9925-c4dbc54f2203.jpg",
+      "coverThumbnail": "img/album/thumbs/bc19e497-27b1-4473-9925-c4dbc54f2203.jpg",
+      "id": 2034
+    },
+    {
+      "title": "Labor Days",
+      "artist": {
+        "name": "Aesop Rock",
+        "sortName": "Aesop Rock",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Aesop Rock hails from his/her/their very own hometown. The interesting thing about Aesop Rock's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Aesop_Rock",
+        "id": 1029
+      },
+      "year": "2001",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Labor",
+          "length": 152826
+        },
+        {
+          "index": 2,
+          "title": "Daylight",
+          "length": 266106
+        },
+        {
+          "index": 3,
+          "title": "Save Yourself",
+          "length": 299600
+        },
+        {
+          "index": 4,
+          "title": "Flashflood",
+          "length": 234466
+        },
+        {
+          "index": 5,
+          "title": "No Regrets",
+          "length": 271200
+        },
+        {
+          "index": 6,
+          "title": "One Brick",
+          "length": 272200
+        },
+        {
+          "index": 7,
+          "title": "The Tugboat Complex, Part 3",
+          "length": 226626
+        },
+        {
+          "index": 8,
+          "title": "Coma",
+          "length": 236600
+        },
+        {
+          "index": 9,
+          "title": "Battery",
+          "length": 307000
+        },
+        {
+          "index": 10,
+          "title": "Boombox",
+          "length": 305306
+        },
+        {
+          "index": 11,
+          "title": "Bent Life",
+          "length": 289560
+        },
+        {
+          "index": 12,
+          "title": "The Yes and the Y’all",
+          "length": 244640
+        },
+        {
+          "index": 13,
+          "title": "9–5ers Anthem",
+          "length": 278626
+        },
+        {
+          "index": 14,
+          "title": "Shovel",
+          "length": 285640
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/cd171e0b-4cb1-4bef-ab60-ccab0729cd73.jpg",
+      "coverThumbnail": "img/album/thumbs/cd171e0b-4cb1-4bef-ab60-ccab0729cd73.jpg",
+      "id": 2035
+    },
+    {
+      "title": "None Shall Pass",
+      "artist": {
+        "name": "Aesop Rock",
+        "sortName": "Aesop Rock",
+        "image": "",
+        "thumbnail": "",
+        "bioText": "Aesop Rock hails from his/her/their very own hometown. The interesting thing about Aesop Rock's music is interesting.",
+        "link": "http://https://en.wikipedia.org/wiki/Aesop_Rock",
+        "id": 1029
+      },
+      "year": "2007",
+      "genre": "",
+      "tracks": [
+        {
+          "index": 1,
+          "title": "Keep Off the Lawn",
+          "length": 225146
+        },
+        {
+          "index": 2,
+          "title": "None Shall Pass",
+          "length": 243626
+        },
+        {
+          "index": 3,
+          "title": "Catacomb Kids",
+          "length": 247680
+        },
+        {
+          "index": 4,
+          "title": "Bring Back Pluto",
+          "length": 269880
+        },
+        {
+          "index": 5,
+          "title": "Fumes",
+          "length": 300066
+        },
+        {
+          "index": 6,
+          "title": "Getaway Car",
+          "length": 195160
+        },
+        {
+          "index": 7,
+          "title": "39 Thieves",
+          "length": 255560
+        },
+        {
+          "index": 8,
+          "title": "The Harbor Is Yours",
+          "length": 238613
+        },
+        {
+          "index": 9,
+          "title": "Citronella",
+          "length": 293413
+        },
+        {
+          "index": 10,
+          "title": "Gun for the Whole Family",
+          "length": 233066
+        },
+        {
+          "index": 11,
+          "title": "Five Fingers",
+          "length": 246760
+        },
+        {
+          "index": 12,
+          "title": "No City",
+          "length": 268800
+        },
+        {
+          "index": 13,
+          "title": "Dark Heart News",
+          "length": 238986
+        },
+        {
+          "index": 14,
+          "title": "Coffee",
+          "length": 251000
+        },
+        {
+          "index": 15,
+          "title": "Pigs",
+          "length": 262000
+        }
+      ],
+      "rating": "",
+      "compilation": false,
+      "coverImage": "img/album/covers/1956fa96-3ff2-4073-a5d6-9670c14004d6.jpg",
+      "coverThumbnail": "img/album/thumbs/1956fa96-3ff2-4073-a5d6-9670c14004d6.jpg",
+      "id": 2036
+    }
+  ]
+}
