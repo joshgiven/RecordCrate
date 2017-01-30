@@ -7,11 +7,20 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Create</title>
+	<c:choose>
+	<c:when test="${update == true}">
+		<title>Update Album</title>
+	</c:when>
+	<c:otherwise>
+		<title>Create Album</title>
+	</c:otherwise>
+	</c:choose>
+	
+	<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 <body>
-	<h1><a href="/Inventory/">Record Bin</a></h1>
+	<h1><a href="/RecordBin/">RecordBin</a></h1>
 	
 	<c:choose>
 		<c:when test="${update == true}">
@@ -36,28 +45,27 @@
 		private String coverThumbnail;
 		 -->
 			<li>
-				<label>Artist
+				<label for="artistId">Artist</label>
 					<select name="artistId">
 					<c:forEach var="artist" items="${artists}">
 						<option value="<c:out value="${artist.id}" />" <c:if test="${artist.id == theAlbum.artist.id }">selected</c:if> ><c:out value="${artist.name}" /></option>
 					</c:forEach>
 					</select>
-				</label>
 			</li>
 			
-			<li><label>Title<input type="text" name="title" <c:if test="${update == true}"> value="<c:out value="${theAlbum.title}"/>"</c:if>></label></li>
-			<li><label>Year<input type="number" name="year" min="1950" max="2020" <c:if test="${update == true}"> value="<c:out value="${theAlbum.year}"/>"</c:if>></label></li>
-	 		<li><label>Genre<input type="text" name="genre" <c:if test="${update == true}"> value="<c:out value="${theAlbum.genre}"/>"</c:if>></label></li>
-			<li><label>Image Path<input type="text" name="coverImage" <c:if test="${update == true}"> value="<c:out value="${theAlbum.coverImage}"/>"</c:if>></label></li>
-			<li><label>Thumbnail Path<input type="text" name="coverThumbnail" <c:if test="${update == true}"> value="<c:out value="${theAlbum.coverThumbnail}"/>"</c:if>></label></li>
+			<li><label for="title">Title</label><input type="text" name="title" <c:if test="${update == true}"> value="<c:out value="${theAlbum.title}"/>"</c:if>></li>
+			<li><label for="year">Year</label><input type="number" name="year" min="1950" max="2020" <c:if test="${update == true}"> value="<c:out value="${theAlbum.year}"/>"</c:if>></li>
+	 		<li><label for="genre">Genre</label><input type="text" name="genre" <c:if test="${update == true}"> value="<c:out value="${theAlbum.genre}"/>"</c:if>></li>
+			<li><label for="coverImage">Image Path</label><input type="text" name="coverImage" <c:if test="${update == true}"> value="<c:out value="${theAlbum.coverImage}"/>"</c:if>></li>
+			<li><label for="coverThumbnail">Thumbnail Path</label><input type="text" name="coverThumbnail" <c:if test="${update == true}"> value="<c:out value="${theAlbum.coverThumbnail}"/>"</c:if>></li>
 		</ul>
 		<c:choose>
 			<c:when test="${update == true}">
 				<input type="hidden" name="id" value="<c:out value="${theAlbum.id}"/>">
-				<button>Update Album</button>
+				<button>update album</button>
 			</c:when>
 			<c:otherwise>
-				<button>Add Album</button>
+				<button>add album</button>
 			</c:otherwise>
 		</c:choose>
 	</form>
@@ -65,10 +73,11 @@
 	<c:if test="${update == true}">
 	<form action="destroyAlbum.do" method="POST">
 		<input type="hidden" name="id" value="<c:out value="${theAlbum.id}"/>">
-		<button class="deleteButton">Delete Album</button>
-		<label><input type="checkbox">safety switch</label>
+		<button class="deleteButton">delete album</button>
 	</form>
 	</c:if>
+		
+	<p class="clear"></p>
 	
 </body>
 </html>

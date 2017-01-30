@@ -7,11 +7,20 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Create</title>
+	<c:choose>
+	<c:when test="${update == true}">
+		<title>Update Artist</title>
+	</c:when>
+	<c:otherwise>
+		<title>Create Artist</title>
+	</c:otherwise>
+	</c:choose>
+	
+	<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 <body>
-	<h1><a href="/Inventory/">RecordCrate</a></h1>
+	<h1><a href="/RecordBin/">RecordBin</a></h1>
 	
 	<c:choose>
 		<c:when test="${update == true}">
@@ -25,20 +34,20 @@
 	
 	<form action="createArtist.do" method="POST">
  		<ul>
-			<li><label>Artist Name<input type="text" name="name" <c:if test="${update == true}"> value="<c:out value="${theArtist.name}"/>"</c:if>></label></li>
-			<li><label>Sort Name<input type="text" name="sortName" <c:if test="${update == true}"> value="<c:out value="${theArtist.sortName}"/>"</c:if>></label></li>
-	 		<li><label>Short Bio<textarea name="bioText"> <c:if test="${update == true}"><c:out value="${theArtist.bioText}"/></c:if></textarea></label></li>
-			<li><label>WWW Link<input type="text" name="link" <c:if test="${update == true}"> value="<c:out value="${theArtist.link}"/>"</c:if>></label></li>
-			<li><label>Image Path<input type="text" name="image" <c:if test="${update == true}"> value="<c:out value="${theArtist.image}"/>"</c:if>></label></li>
-			<li><label>Thumbnail Path<input type="text" name="thumbnail" <c:if test="${update == true}"> value="<c:out value="${theArtist.thumbnail}"/>"</c:if>></label></li>
+			<li><label>Artist Name</label><input type="text" name="name" <c:if test="${update == true}"> value="<c:out value="${theArtist.name}"/>"</c:if>></li>
+			<li><label>Sort Name</label><input type="text" name="sortName" <c:if test="${update == true}"> value="<c:out value="${theArtist.sortName}"/>"</c:if>></li>
+	 		<li><label>Short Bio</label><textarea name="bioText"> <c:if test="${update == true}"><c:out value="${theArtist.bioText}"/></c:if></textarea></li>
+			<li><label>WWW Link</label><input type="text" name="link" <c:if test="${update == true}"> value="<c:out value="${theArtist.link}"/>"</c:if>></li>
+			<li><label>Image Path</label><input type="text" name="image" <c:if test="${update == true}"> value="<c:out value="${theArtist.image}"/>"</c:if>></li>
+			<li><label>Thumbnail Path</label><input type="text" name="thumbnail" <c:if test="${update == true}"> value="<c:out value="${theArtist.thumbnail}"/>"</c:if>></li>
 		</ul>
 		<c:choose>
 			<c:when test="${update == true}">
  				<input type="hidden" name="id" value="<c:out value="${theArtist.id}"/>">
-				<button>Update Artist</button>
+				<button>update artist</button>
 			</c:when>
 			<c:otherwise>
-				<button>Add Artist</button>
+				<button>add artist</button>
 			</c:otherwise>
 		</c:choose>
 	</form>
@@ -46,10 +55,11 @@
 	<c:if test="${update == true}">
 	<form action="destroyArtist.do" method="POST">
 		<input type="hidden" name="id" value="<c:out value="${theArtist.id}"/>">
-		<button class="deleteButton">Delete Artist</button>
-		<label><input type="checkbox">safety switch</label>
+		<button class="deleteButton">delete artist</button>
 	</form>
 	</c:if>
+	
+	<p class="clear"></p>
 
 </body>
 </html>

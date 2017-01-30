@@ -8,10 +8,12 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Record Bin</title>
+	
+	<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 <body>
-	<h1><a href="/Inventory/">Record Bin</a></h1>
+	<h1><a href="/RecordBin/">RecordBin</a></h1>
 	
 	<h2>Album Gallery</h2>
 	<ul class="gallery">
@@ -53,10 +55,11 @@
 	</ul>
 	
 	<h2>Add Items</h2>
-	<ul>
-		<li><a href="createArtistForm.do">add artist</a></li>
-		<li><a href="createAlbumForm.do">add album</a></li>
+	<ul class="buttonBar">
+		<li><a class="mutator" href="createArtistForm.do">add an artist</a></li>
+		<li><a class="mutator" href="createAlbumForm.do">add an album</a></li>
 	</ul>
 	
+	<p class="clear"></p>
 </body>
 </html>

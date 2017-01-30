@@ -8,6 +8,7 @@ body {
 }
 
 h1 {
+	font-family: 'Righteous', cursive;
 	text-align: center;
 	background-image: linear-gradient(to bottom, rgba(255,255,255,.5), rgba(0,0,0,.5));
 	color: white;
@@ -18,26 +19,42 @@ h1 {
 	padding-bottom: 20px;
 }
 
+
 a {
 	text-decoration: none;
 	color: black;
 }
 
 h2 {
-	border: 1px solid silver;
+	font-family: 'Righteous', cursive;
+	background-image: linear-gradient(to bottom, rgba(255,255,255,.5), rgba(94, 0, 0, .5));
+	border: 1px solid rgb(94, 0, 0);
 	border-radius: 2px;
+	clear: both;
+	padding-left: 25px;
+	
+}
+
+img {
+	background-image: radial-gradient(ellipse farthest-corner at 45px 45px , #FFFFFF 0%, rgba(0, 0, 255, 0) 50%, #000000 95%);	
+}
+
+ul.buttonBar {
+	list-style-type: none;
+}
+	
+ul.buttonBar li {
+	float: left;
 }
 
 ul.gallery {
-	list-style-type: none;
 	//width: 75vw;
 	width: 676px;
 	padding: 4px;
 	
-	border: solid 1px red;
+	border: solid 1px silver;
 	border-radius: 2px;
 	
-	//background-color: green;
 }
 
 .gallery li {
@@ -103,6 +120,8 @@ img.albumCover {
 }
 
 a.mutator {
+	font-family: 'Righteous', cursive;
+	
 	color: silver;
 	background: black;
 	border: 1px solid silver;
@@ -143,5 +162,126 @@ div.statBox {
 }
 
 .trackListing {}
-.albumStats {}
 
+.albumStats {
+}
+
+img.artistPhoto {
+	width: 300px;
+	height: 300px;
+	border: 1px solid silver;
+	border-radius: 2px;
+	//border-radius: 150px;
+	background-image: radial-gradient(ellipse farthest-corner at 45px 45px , #FFFFFF 0%, rgba(0, 0, 255, 0) 50%, #000000 95%);
+	float: left;
+	padding: 10px;
+	margin-right: 20px;
+	
+}
+
+img {
+	background-image: radial-gradient(ellipse farthest-corner at 45px 45px , #FFFFFF 0%, rgba(0, 0, 255, 0) 50%, #000000 95%);	
+
+	box-shadow: 2px 2px 4px rgba(0,0,0,.5);
+}
+
+table caption {
+	text-align: left;
+	font-weight: bold;
+		
+	background-image: linear-gradient(to bottom, rgba(255,255,255,.5), rgba(94, 0, 0, .5));
+	border: 1px solid rgb(94, 0, 0);
+	border-radius: 2px;
+}
+
+table tr:NTH-CHILD(2n) {
+	background: gray;
+}
+
+table tr:NTH-CHILD(2n+1) {
+	background: silver;
+	
+}
+
+table img {
+	width: 100px;
+	height: 100px;
+}
+
+
+form ul {
+	list-style-type: none;
+	margin-left: 0px;
+	padding-left: 0px;
+}
+
+form ul li {
+	margin-bottom: 5px;
+}
+
+label {
+	display: inline-block;
+	width: 10em;
+	vertical-align: top;
+	text-align: right;
+	padding-right: 15px;
+	margin-right: 5px;
+	background: silver;
+	border-radius: 2px;
+}
+
+input, select, textarea {
+	padding: 0px;
+	margin: 0px;
+	width: 40em;
+	background-color: silver;
+	vertical-align: top;
+}
+
+textarea {
+	height: 3em;
+}
+
+button.dambButton {
+	//font-family: inherit;
+	font-family: 'Righteous', cursive;
+}
+
+button {
+	//font-family: inherit;
+	font-family: 'Righteous', cursive;
+	
+	color: silver;
+	background: black;
+	border: 1px solid silver;
+	border-radius: 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 5px 5px 5px 5px;
+	font-family: Arial, sans-serif;
+	font-size: medium;
+}
+
+button:hover {
+	color: black;
+	background: silver;
+	border: 1px solid black;
+}
+
+.deleteButton {
+	background: rgb(94, 0, 0);
+}
+
+.deleteButton:hover {
+	color: rgb(94, 0, 0);;
+	background: silver;
+	border: 1px solid rgb(94, 0, 0);;
+}
+
+
+.clear {
+	clear: both;
+	height: 50px;
+}

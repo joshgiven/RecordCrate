@@ -8,26 +8,45 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Artist View</title>
+	
+	<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 <body>
-	<h1><a href="/Inventory/">Record Bin</a></h1>
+	<h1><a href="/RecordBin/">RecordBin</a></h1>
 	
 	<h2>Artist View</h2>
 	
-	<img src="${artist.image}" alt="<c:out value="${artist.name}" />" />
+	<div class="viewBox">
 	
-	<ul>
+	<img class="artistPhoto" src="${artist.image}" alt="<c:out value="${artist.name}" />" />
+	
+<%-- 	<ul>
 		<li><c:out value="${artist.name}" /></li>
 		<li><c:out value="${artist.bioText}" /></li>
 		<li><a href="<c:out value="${artist.link}" />"><c:out value="${artist.link}" /></a></li>
-	</ul>
+	</ul> --%>
+	<table>
+		<tr>
+			<td>Name: </td>
+			<td><c:out value="${artist.name}" /></td>
+		</tr>
+		<tr>
+			<td>Bio: </td>
+			<td><c:out value="${artist.bioText}" /></td>
+		</tr>
+		<tr>
+			<td>Link: </td>
+			<td><a href="<c:out value="${artist.link}" />"><c:out value="${artist.link}" /></a></td>
+		</tr>
+	</table>
+	</div>
 	
 	<h2>Albums by Artist</h2>
 	<table>
 		<thead>
 			<tr>
-				<td>Year</td><td>Title</td>
+				<td></td><td>Year</td><td>Title</td>
 			</tr>
 		</thead>
 		<c:forEach var="album" items="${albums}">
@@ -39,7 +58,15 @@
 		</c:forEach>
 	</table>
 	
-	<a href="updateArtistForm.do?id=<c:out value="${artist.id}" />">edit</a>
+	<h2>Add/Modify Items</h2>
+	<ul class="buttonBar">
+		<li><a class="mutator" href="updateArtistForm.do?id=<c:out value="${artist.id}" />">edit this artist</a></li>
+		<li><a class="mutator" href="createArtistForm.do">add an artist</a></li>
+		<li><a class="mutator" href="createAlbumForm.do">add an album</a></li>
+	</ul>
+	
+		
+	<p class="clear"></p>
 	
 </body>
 </html>

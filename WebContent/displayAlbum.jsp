@@ -8,10 +8,12 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Album View</title>
+	
+	<link href="https://fonts.googleapis.com/css?family=Righteous" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="css/style.css" />
 </head>
 <body>
-	<h1><a href="/Inventory/">Record Bin</a></h1>
+	<h1><a href="/RecordBin/">RecordBin</a></h1>
 	
 	<h2>Album View</h2>
 	
@@ -62,8 +64,14 @@
 	</div>
 	</div>
 
-	<div class="buttonBox">
-	<a class="mutator" href="updateAlbumForm.do?id=<c:out value="${album.id}" />">edit</a>
-	</div>
+	<h2>Add/Modify Items</h2>
+	<ul class="buttonBar">
+		<li><a class="mutator" href="updateAlbumForm.do?id=<c:out value="${album.id}" />">edit this album</a></li>
+		<li><a class="mutator" href="createArtistForm.do">add an artist</a></li>
+		<li><a class="mutator" href="createAlbumForm.do">add an album</a></li>
+	</ul>
+		
+	<p class="clear"></p>
+	
 </body>
 </html>
