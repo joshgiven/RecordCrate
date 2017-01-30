@@ -17,31 +17,12 @@
 	
 	<h2>Album View</h2>
 	
-	<div class="viewBox">
+	<!-- <div class="viewBox"> -->
+	
 	<img class="albumCover" src="${album.coverImage}" alt="<c:out value="${album.title}" />" />
 	
-	<div class="statBox">
-	<table class="albumStats">
-		<caption>Vital Stats</caption>
-		<tr>
-			<td>Title:</td>
-			<td><c:out value="${album.title}" /></td>
-		</tr>
-		<tr>
-			<td>Artist</td>
-			<td><a href="displayArtist.do?id=<c:out value="${album.artist.id}" />"><c:out value="${album.artist.name}" /></a></td>
-		</tr>
-		<tr>
-			<td>Year:</td>
-			<td><c:out value="${album.year}" /></td>
-		</tr>
-		<tr>
-			<td>Genre:</td>
-			<td><c:out value="${album.genre}" /></td>
-		</tr>
-	</table>
-	
-	<table class="trackListing">
+	<!-- <div class="statBox"> -->
+			<table class="trackListing">
 		<caption>Tracks</caption>
 		<thead>
 			<tr>
@@ -61,8 +42,31 @@
 			</tr>
 		</tfoot>
 	</table>
-	</div>
-	</div>
+	
+	
+	
+		<table class="albumStats">
+		<caption>Vital Stats</caption>
+		<tr>
+			<td>Title:</td>
+			<td><c:out value="${album.title}" /></td>
+		</tr>
+		<tr>
+			<td>Artist</td>
+			<td><a href="displayArtist.do?id=<c:out value="${album.artist.id}" />"><c:out value="${album.artist.name}" /></a></td>
+		</tr>
+		<tr>
+			<td>Year:</td>
+			<td><c:out value="${album.year}" /></td>
+		</tr>
+		<tr>
+			<td>Genre:</td>
+			<td><c:out value="${album.genre}" /></td>
+		</tr>
+	</table>
+	
+	<!-- </div> -->
+	<!-- </div> -->
 
 	<h2>Add/Modify Items</h2>
 	<ul class="buttonBar">

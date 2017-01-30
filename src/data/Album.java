@@ -3,8 +3,10 @@ package data;
 import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
+@JsonIgnoreProperties(value = { "time" })
 public class Album {
 	private static int nextAlbumID = 1;
 	
@@ -58,9 +60,12 @@ public class Album {
 	}
 
 	public String getTime() {
+		if(tracks == null)
+			return "00:00";
+		
 		int sum = 0;
 		for(Track t : tracks) {
-			sum += t.getLength();
+			sum += (t == null) ? 0 : t.getLength();
 		}
 		
 		sum /= 1000;

@@ -43,6 +43,8 @@
 	</div>
 	
 	<h2>Albums by Artist</h2>
+	<c:choose>
+	<c:when test="${albums.size() > 0}">
 	<table>
 		<thead>
 			<tr>
@@ -51,12 +53,17 @@
 		</thead>
 		<c:forEach var="album" items="${albums}">
 			<tr>
-				<td><img src="<c:out value="${album.coverThumbnail}" />" /></td>
+				<td><a href="displayAlbum.do?id=<c:out value="${album.id}" />"><img src="<c:out value="${album.coverThumbnail}" />" /></a></td>
 				<td><c:out value="${album.year}" /></td>
 				<td><a href="displayAlbum.do?id=<c:out value="${album.id}" />"><c:out value="${album.title}" /></a></td>
 			</tr>
 		</c:forEach>
 	</table>
+	</c:when>
+	<c:otherwise>
+	<p>none</p>
+	</c:otherwise>
+	</c:choose>
 	
 	<h2>Add/Modify Items</h2>
 	<ul class="buttonBar">

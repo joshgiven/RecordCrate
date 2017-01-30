@@ -48,6 +48,9 @@ public class Artist {
 
 	public void setName(String name) {
 		this.name = name;
+		
+		if(this.sortName == null || this.sortName.equals(""))
+			this.sortName = name;
 	}
 	public String getSortName() {
 		return sortName;

@@ -1,8 +1,10 @@
 package data;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
+@JsonIgnoreProperties(value = { "time" })
 public class Track {
 	private String title;
 	private int length;

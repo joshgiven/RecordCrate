@@ -149,6 +149,7 @@ public class InventoryDaoJsonImpl implements InventoryDAO {
 		Album oldAlbum = getAlbumById(album.getId());
 
 		if(oldAlbum != null) {
+			album.setTracks(oldAlbum.getTracks());
 			albums.remove(oldAlbum);
 		}
 		

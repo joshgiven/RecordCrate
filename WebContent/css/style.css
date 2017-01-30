@@ -19,6 +19,10 @@ h1 {
 	padding-bottom: 20px;
 }
 
+h1 a:hover {
+	color: rgb(94, 0, 0);
+}
+
 
 a {
 	text-decoration: none;
@@ -39,6 +43,10 @@ img {
 	background-image: radial-gradient(ellipse farthest-corner at 45px 45px , #FFFFFF 0%, rgba(0, 0, 255, 0) 50%, #000000 95%);	
 }
 
+a img:hover {
+	opacity: .5;
+}
+
 ul.buttonBar {
 	list-style-type: none;
 }
@@ -49,12 +57,12 @@ ul.buttonBar li {
 
 ul.gallery {
 	//width: 75vw;
-	width: 676px;
+	width: 848px;
 	padding: 4px;
 	
 	border: solid 1px silver;
 	border-radius: 2px;
-	
+	margin-left: 16px;
 }
 
 .gallery li {
@@ -97,7 +105,7 @@ ul.gallery {
 .gallery figcaption a:hover {
 	//border: 1px solid black;
 	border-radius: 2px;
-	background-color: blue;
+	background-color: rgb(94, 0, 0);
 	color: silver;
 }
 	
@@ -117,6 +125,7 @@ img.albumCover {
 	padding: 10px;
 	float: left;
 	margin-right: 20px;
+	margin-bottom: 20px;
 }
 
 a.mutator {
@@ -143,13 +152,13 @@ a.mutator:hover {
 	border: 1px solid black;
 }
 
-div.statBox {
+/* div.statBox {
 	display: inline-block;
 	border: 1px solid silver;
 	border-radius: 2px;
 	padding: 10px;
 	background-color: rgb(0,0,0,1);
-}
+} */
 
 .viewBox {
 	
@@ -161,9 +170,17 @@ div.statBox {
 	height: 30px;
 }
 
-.trackListing {}
+.trackListing {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
 
 .albumStats {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	
 }
 
 img.artistPhoto {
@@ -185,9 +202,15 @@ img {
 	box-shadow: 2px 2px 4px rgba(0,0,0,.5);
 }
 
+table a:hover {
+	background: black;
+	color: silver;
+}
+
 table caption {
 	text-align: left;
 	font-weight: bold;
+	padding-left: 15px;
 		
 	background-image: linear-gradient(to bottom, rgba(255,255,255,.5), rgba(94, 0, 0, .5));
 	border: 1px solid rgb(94, 0, 0);
@@ -207,7 +230,6 @@ table img {
 	width: 100px;
 	height: 100px;
 }
-
 
 form ul {
 	list-style-type: none;
