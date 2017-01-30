@@ -56,6 +56,7 @@ RecordCrate (dba RecordBin) is an album-centric music tracking system.
 - Modularize the Controller by functionality
   (Read/Display, Create/Update/Delete)
 - Implement a hierarchical set of Genre classes
+- add searchsorting features - by genre, by date, by track, etc
 
 ### Stumbles & Bumbles
 - Time-Management - Too much time spent on gathering images/data via MusicBrainz
